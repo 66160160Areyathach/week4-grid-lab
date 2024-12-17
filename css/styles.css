@@ -10,13 +10,13 @@
     min-height: 100vh;     
     gap: 1rem;     
     padding: 1rem; 
-    }  
+}  
 .header {      
     grid-area: header;     
     background: #2196F3;     
     padding: 1rem;     
     color: white; 
-    }  
+}  
 .nav {     
     grid-area: nav;     
     background: #64B5F6;     
@@ -28,11 +28,11 @@
     padding: 1rem; 
 }  
 .sidebar {     
-    grid-area: sidebar;     
+    grid-area: sidebar;
     background: #64B5F6;     
     padding: 1rem; 
 }  
-.footer {     
+.footer {
     grid-area: footer;     
     background: #2196F3;     
     padding: 1rem;     
